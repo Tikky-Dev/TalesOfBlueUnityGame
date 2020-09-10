@@ -1,5 +1,9 @@
 # _Tales Of Blue_
 
+## Current progress
+
+Currently this game is still in it's starting faze
+
 ## Tasks
 
 #### Programming
