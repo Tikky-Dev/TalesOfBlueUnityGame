@@ -2,7 +2,8 @@
 
 ## Current progress
 
-Currently this game is still in it's starting faze
+Currently this game is still in it's starting faze.
+The small part of map for a Demo is in progress
 
 ## Tasks
 
@@ -17,4 +18,12 @@ Currently this game is still in it's starting faze
 
 
 ### Animation
-  - [x] Animate player
+  - [x] Animate player movement
+  - [ ] Animate environment
+  - [ ] Animate Objects
+
+
+## Assets Used
+
+- **Game engine:** Unity
+- **Tiles and art assets:** https://opengameart.org/content/zelda-like-tilesets-and-sprites
