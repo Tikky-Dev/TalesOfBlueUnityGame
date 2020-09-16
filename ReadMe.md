@@ -26,7 +26,7 @@ The small part of map for a Demo is in progress.
 ### Level creation
 - [x] Garden
 - [x] Pub interior/First floor
-- [ ] Living interior/Second floor
+- [x] Living interior/Second floor
 - [ ] Challenge levels
   - [ ] Maze level
   - [ ] Clue collection
@@ -38,4 +38,4 @@ The small part of map for a Demo is in progress.
 - **Game engine:** Unity
 - **Tiles and art assets:**
     - https://opengameart.org/content/zelda-like-tilesets-and-sprites
-    - https://opengameart.org/content/16x16-wall-set
+    - https://opengameart.org/content/16x16-wall-set 
