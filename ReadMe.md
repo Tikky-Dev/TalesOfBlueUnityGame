@@ -3,7 +3,8 @@
 ## Current progress
 
 Currently this game is still in it's starting faze.
-The small part of map for a Demo is in progress.
+Finished demo map.
+Working on maze minigame.
 
 ## Tasks
 
@@ -21,6 +22,7 @@ The small part of map for a Demo is in progress.
   - [x] Animate player movement
   - [ ] Animate environment
   - [ ] Animate Objects
+  - [ ] Animated scene change
 
 
 ### Level creation
@@ -38,4 +40,4 @@ The small part of map for a Demo is in progress.
 - **Game engine:** Unity
 - **Tiles and art assets:**
     - https://opengameart.org/content/zelda-like-tilesets-and-sprites
-    - https://opengameart.org/content/16x16-wall-set 
+    - https://opengameart.org/content/16x16-wall-set
