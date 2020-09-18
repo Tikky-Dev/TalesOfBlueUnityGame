@@ -56,13 +56,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerControler.cs" />
+    <Compile Include="Assets\Scripts\Maze\ImovableGenerator.cs" />
     <Compile Include="Assets\Scripts\Events\GoOutside.cs" />
     <Compile Include="Assets\Scripts\PlayerMovemant.cs" />
+    <Compile Include="Assets\Scripts\Maze\MazeGenerator.cs" />
     <Compile Include="Assets\Scripts\Events\GoInHome.cs" />
     <Compile Include="Assets\Scripts\Events\GoDownstairs.cs" />
     <Compile Include="Assets\Scripts\Events\GoUpstairs.cs" />
-    <Compile Include="Assets\Scripts\Maze\ImovableGenerator.cs" />
-    <Compile Include="Assets\Scripts\Maze\MazeGenerator.cs" />
+    <Compile Include="Assets\Scripts\Maze\RoomType.cs" />
+    <Compile Include="Assets\Scripts\Maze\SpawnRoom.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
